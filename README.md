@@ -1,4 +1,4 @@
-#Airbnb excel project
+# Airbnb excel project
 ---
 ### Project Overview
 The project analyzes Airbnb listings in Dallas, Texas, focusing on neighborhood prices, room types, and guest ratings. It aims to help investors, travelers, and potential hosts make informed decisions about where to stay, invest, or host based on pricing and ratings trends.
